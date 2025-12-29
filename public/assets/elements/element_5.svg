@@ -1,0 +1,6 @@
+<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- 橙色六边形 -->
+  <polygon points="30,5 50,17.5 50,42.5 30,55 10,42.5 10,17.5" fill="#ffa07a"/>
+  <polygon points="30,5 50,17.5 50,42.5 30,55 10,42.5 10,17.5" fill="none" stroke="#ffffff" stroke-width="3" opacity="0.6"/>
+  <polygon points="30,15 42,22 42,38 30,45 18,38 18,22" fill="#ff8c5a" opacity="0.7"/>
+</svg>

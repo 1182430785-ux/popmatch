@@ -1,0 +1,26 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- 深空背景 -->
+  <defs>
+    <radialGradient id="spaceGradient" cx="50%" cy="50%" r="80%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#16213e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f3460;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+
+  <rect width="800" height="600" fill="url(#spaceGradient)"/>
+
+  <!-- 星星 -->
+  <circle cx="100" cy="80" r="2" fill="white" opacity="0.8"/>
+  <circle cx="250" cy="150" r="1.5" fill="white" opacity="0.6"/>
+  <circle cx="400" cy="100" r="2" fill="white" opacity="0.9"/>
+  <circle cx="550" cy="200" r="1" fill="white" opacity="0.7"/>
+  <circle cx="650" cy="120" r="1.5" fill="white" opacity="0.8"/>
+  <circle cx="700" cy="250" r="2" fill="white" opacity="0.6"/>
+  <circle cx="150" cy="300" r="1" fill="white" opacity="0.7"/>
+  <circle cx="300" cy="400" r="1.5" fill="white" opacity="0.8"/>
+  <circle cx="500" cy="450" r="2" fill="white" opacity="0.9"/>
+  <circle cx="600" cy="500" r="1" fill="white" opacity="0.6"/>
+  <circle cx="200" cy="500" r="1.5" fill="white" opacity="0.7"/>
+  <circle cx="450" cy="350" r="1" fill="white" opacity="0.8"/>
+</svg>

@@ -1,0 +1,21 @@
+{
+  "name": "popmatch",
+  "version": "1.0.0",
+  "description": "A match-3 puzzle game built with Phaser 3",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["phaser", "game", "match-3", "typescript"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "vite": "^5.0.8"
+  },
+  "dependencies": {
+    "phaser": "^3.70.0"
+  }
+}

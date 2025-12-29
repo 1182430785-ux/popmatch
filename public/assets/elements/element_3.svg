@@ -1,0 +1,6 @@
+<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- 绿色三角形 -->
+  <polygon points="30,8 55,50 5,50" fill="#95e1d3"/>
+  <polygon points="30,8 55,50 5,50" fill="none" stroke="#ffffff" stroke-width="3" opacity="0.6"/>
+  <polygon points="30,20 43,42 17,42" fill="#7dd3c0" opacity="0.7"/>
+</svg>

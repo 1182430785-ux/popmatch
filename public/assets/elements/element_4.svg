@@ -1,0 +1,6 @@
+<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- 紫色菱形 -->
+  <polygon points="30,5 55,30 30,55 5,30" fill="#c7ceea"/>
+  <polygon points="30,5 55,30 30,55 5,30" fill="none" stroke="#ffffff" stroke-width="3" opacity="0.6"/>
+  <polygon points="30,15 43,30 30,45 17,30" fill="#a8b3db" opacity="0.7"/>
+</svg>
